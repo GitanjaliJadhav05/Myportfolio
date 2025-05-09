@@ -5,8 +5,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* element selector */
-body {
+/* element selector */   
+@media body {
     height: 100%;
     width: 100%;
   
